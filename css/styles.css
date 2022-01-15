@@ -1,0 +1,172 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+.top-container {
+    background-color: #678983;
+    padding: 200px 0 100px 0;
+
+}
+
+.middle-container1 {
+    background-color:#E6DDC4;
+}
+
+.middle-container2 {
+    background-color: #E6DDC4;
+}
+
+.bottom-container {
+    background-color: #181D31;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 380px;
+    left: 520px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 120px;
+    right: 520px;
+}
+
+.mountain {
+    margin: 0 auto 0;
+    position: relative;
+    top: 104px
+}
+
+.title {
+    font-size: 4.2rem;
+    margin: 0 auto 0;
+    font-family: 'Satisfy', cursive;
+    position: relative;
+    bottom: 30px;
+    color: #181D31;
+    line-height: 2;
+}
+
+.subtitle {
+    font-size: 1.4rem;
+    margin: 0 auto 0;
+    font-family: 'Roboto Mono', monospace;
+    position: relative;
+    bottom: 30px;
+    color: #181D31;
+}
+
+.profile {
+    padding: 50px 0 75px 0;
+}
+
+.profile-pic {
+    height: 200px;
+}
+
+.skills {
+    padding: 75px 0 100px 0;
+}
+
+.skill-row {
+    padding: 50px 0 40px 0;
+    width: 45%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer-pic {
+    height: 200px;
+    float: left;
+    padding: 34px 30px 0 0;
+}
+
+.english-pic {
+    height: 200px;
+    float: right;
+    padding: 0 30px 75px 0;
+}
+
+h2 {
+    margin-top: 25px;
+    color:#181D31;
+    font-weight: normal;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h3 {
+    margin-top: 35px;
+    color:#181D31;
+    font-family: 'Roboto Mono', monospace;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+a {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.bottom-text {
+    line-height: 2;
+}
+
+.footer-link {
+    color: #F0E9D2;
+    line-height: 2;
+    padding: 0 15px 10px 15px;
+}
+
+.rights {
+    color: #F0E9D2;
+    font-size: 0.9rem;
+    padding-top: 30px;
+}
+
+hr {
+    color: #678983;
+    margin: 0;
+    border-style: dotted none none none;
+    border-width: 6px;
+    width: 5%;
+    margin: 0 auto 0 auto;
+}
+
+.middle-container2 {
+    padding: 75px 0 100px 0;
+}
+
+.bottom-container {
+    padding: 50px 0 20px 0;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #F0E9D2;
+    font-size: 20px;
+    background: #678983;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #181D31;
+    text-decoration: none;
+  }
+
+#bottom-p {
+    padding-bottom: 50px;
+}
+
+.link-logo {
+    width: 25px;
+    position: relative;
+    right: 5px;
+    top: 8px;
+}
